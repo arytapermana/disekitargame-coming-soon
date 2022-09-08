@@ -1,50 +1,50 @@
 @font-face {
     font-family: 'metropolis';
-    src: url('./Metropolis-Regular.otf');
+    src: url('https://disekitargame.com/Metropolis-Regular.otf');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url('./Metropolis-Bold.otf');
+    src: url('https://disekitargame.com/Metropolis-Bold.otf');
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-ExtraBold.otf");
+    src: url("https://disekitargame.com/Metropolis-ExtraBold.otf");
     font-weight: bolder;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-Light.otf");
+    src: url("https://disekitargame.com/Metropolis-Light.otf");
     font-weight: lighter;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-Thin.otf");
+    src: url("https://disekitargame.com/Metropolis-Thin.otf");
     font-weight: 200;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-RegularItalic.otf");
+    src: url("https://disekitargame.com/Metropolis-RegularItalic.otf");
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-BoldItalic.otf");
+    src: url("https://disekitargame.com/Metropolis-BoldItalic.otf");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'metropolis';
-    src: url("./Metropolis-LightItalic.otf");
+    src: url("https://disekitargame.com/Metropolis-LightItalic.otf");
     font-weight: lighter;
     font-style: italic;
 }
